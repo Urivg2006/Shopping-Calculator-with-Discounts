@@ -2,7 +2,7 @@
 
 # Calculadora de Compres amb Descomptes
 
-## Creeu una aplicació amb Flutter anomenada Pt2_Cognom_Nom que mostri:
+## Creeu una aplicació amb Flutter que mostri:
 * **Dues caixes de text (TextField):**
     * Una per introduir el **nombre d’unitats** comprades.
     * Una per introduir el **preu d’una unitat**.
@@ -45,7 +45,7 @@ Aquest projecte està sota la llicència **GNU GPLv3**. Aquest és programari ll
 
 # Shopping Calculator with Discounts
 
-## Create a Flutter application named Pt2_Surname_Name that displays:
+## Create a Flutter application that displays:
 * **Two Text Boxes (TextField):**
     * One to enter the **number of units** purchased.
     * One to enter the **price per unit**.
